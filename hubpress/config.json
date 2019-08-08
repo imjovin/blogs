@@ -8,10 +8,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "https://imjovin.github.io/hubpress.io",
-    "hubpress": "https://imjovin.github.io/hubpress.io",
-    "theme": "//imjovin.github.io/hubpress.io/themes/casper",
-    "images": "https://imjovin.github.io/hubpress.io/images"
+    "site": "https://imjovin.github.io/blogs",
+    "hubpress": "https://imjovin.github.io/blogs",
+    "theme": "//imjovin.github.io/blogs/themes/casper",
+    "images": "https://imjovin.github.io/blogs/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
