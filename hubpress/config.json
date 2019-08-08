@@ -2,7 +2,8 @@
   "meta": {
     "username": "imjovin",
     "repositoryName": "blogs",
-    "branch": "gh-pages"
+    "branch": "gh-pages",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -26,5 +27,31 @@
     "beforeCreate": [
       null
     ]
-  }
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "blogPath": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "jovinjames33@gmail.com",
+    "github": "imjovin",
+    "twitter": "aimjovin",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "jovinjames",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
+  },
+  "navigation": []
 }
